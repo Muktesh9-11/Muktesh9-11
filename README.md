@@ -56,7 +56,7 @@
 
 </td>
 
-<td width="45%" valign="top">
+<td width="45%" valign="middle">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY1MHlnMHBtOThwNzB2cWN1azYyMXU2ZWx2OTVodnVxd20yOHJjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IAGR0uorPxSujK/giphy.gif" width="100%"/>
 </td>
 </tr>
