@@ -33,22 +33,22 @@
 <p>
 <a href="https://www.linkedin.com/in/muktesh-bodkhe-9335a8285/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35"/>
-</a>
+</a> &nbsp;&nbsp;
 <a href="https://x.com/artsmellerr" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/muktesh04/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/mukteshbodkhe04" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="35"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/mukteshbodkhe04/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/mukteshbodkhe04" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" width="35"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/mukteshbodkhe04" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="35"/>
 </a>
