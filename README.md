@@ -54,17 +54,17 @@
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/mukteshbodkhe04/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="52" height="40" alt="leetcode logo" />
   </a>
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/mukteshbodkhe04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codeforces/default.svg" width="52" height="40" alt="codeforces logo" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="52" height="40" alt="codeforces logo" />
   </a>
 
   <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/mukteshbodkhe04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/geeksforgeeks/default.svg" width="52" height="40" alt="geeksforgeeks logo" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="52" height="40" alt="geeksforgeeks logo" />
   </a>
 </div>
 
