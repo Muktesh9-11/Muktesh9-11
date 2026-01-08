@@ -90,11 +90,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muktesh9-11
-&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muktesh9-11
-&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://stats-github-readme.vercel.app/api?username=Muktesh9-11&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://stats-github-readme.vercel.app/api/top-langs?username=Muktesh9-11&layout=compact&theme=dracula" height="150"/>
 </div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muktesh9-11&theme=react-dark" />
+
 
 ###
 
