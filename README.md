@@ -1,19 +1,18 @@
 <h2>Hi 👋! My name is Muktesh Bodkhe & I'm a CS-undergrad</h2>
 
 <table>
+<h3><b style="font-size:20px;">I love reading Mangas and learning something new everyday.</b></h3>
 <tr>
 <td width="55%" valign="top">
 
-<p><b style="font-size:20px;">I love reading Mangas and learning something new everyday.</b></p>
-
-<p>
+<h6 align="left">
 🔭 I’m currently doing <b>Competitive Programming / WebDev</b><br><br>
 🌱 I’m currently learning <b>CS Fundamentals and Frontend Development</b><br><br>
 👯 I’m looking to collaborate in <b>Competitive Programming and Frontend Dev</b><br><br>
 🤝 I’m looking for help with <b>DSA and Dev Stuff</b><br><br>
 📫 How to reach me: <b>shatanshubodkhe@gmail.com</b><br><br>
 ⚡ Fun fact: I landed here accidentally and now I'm lovin' it!
-</p>
+</h6>
 
 <h3><b>Languages and Tools :</b></h3>
 
