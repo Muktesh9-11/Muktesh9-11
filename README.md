@@ -1,79 +1,64 @@
-<h2 align="left">Hi 👋! My name is Muktesh Bodkhe & I'm a CS-undergrad</h2>
+<h2>Hi 👋! My name is Muktesh Bodkhe & I'm a CS-undergrad</h2>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<table>
+<tr>
+<td width="55%" valign="top">
 
-  <!-- LEFT CONTENT -->
-  <div style="width: 52%;">
+<p><b style="font-size:20px;">I love reading Mangas and learning something new everyday.</b></p>
 
-    <p style="font-size: 20px; font-weight: bold;">
-      I love reading Mangas and learning something new everyday.
-    </p>
+<p>
+🔭 I’m currently doing <b>Competitive Programming / WebDev</b><br><br>
+🌱 I’m currently learning <b>CS Fundamentals and Frontend Development</b><br><br>
+👯 I’m looking to collaborate in <b>Competitive Programming and Frontend Dev</b><br><br>
+🤝 I’m looking for help with <b>DSA and Dev Stuff</b><br><br>
+📫 How to reach me: <b>shatanshubodkhe@gmail.com</b><br><br>
+⚡ Fun fact: I landed here accidentally and now I'm lovin' it!
+</p>
 
-    <h6 align="left">
-      🔭 I’m currently doing Competitive Programming / WebDev<br><br>
-      🌱 I’m currently learning CS Fundamentals and Frontend Development<br><br>
-      👯 I’m looking to collaborate in Competitive Programming and Frontend Dev<br><br>
-      🤝 I’m looking for help with DSA and Dev Stuff<br><br>
-      📫 How to reach me: <b>shatanshubodkhe@gmail.com</b><br><br>
-      ⚡ Fun fact: I landed here accidentally and now I'm lovin' it!
-    </h6>
+<h3><b>Languages and Tools :</b></h3>
 
-    <h3><b>Languages and Tools :</b></h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+</p>
 
-    <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-    </div>
+<h3><b>Connect with Me :</b></h3>
 
-    <h3><b>Connect with Me :</b></h3>
+<p>
+<a href="https://www.linkedin.com/in/muktesh-bodkhe-9335a8285/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/>
+</a>
+<a href="https://x.com/artsmellerr" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45"/>
+</a>
+<a href="https://www.instagram.com/muktesh04/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45"/>
+</a>
+<a href="https://www.hackerrank.com/profile/mukteshbodkhe04" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="45"/>
+</a>
+<a href="https://leetcode.com/u/mukteshbodkhe04/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+</a>
+<a href="https://codeforces.com/profile/mukteshbodkhe04" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" width="45"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/mukteshbodkhe04" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45"/>
+</a>
+</p>
 
-    <div align="left">
-      <a href="https://www.linkedin.com/in/muktesh-bodkhe-9335a8285/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-      </a>
-      <a href="https://x.com/artsmellerr" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
-      </a>
-      <a href="https://www.instagram.com/muktesh04/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
-      </a>
-      <a href="https://www.hackerrank.com/profile/mukteshbodkhe04" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" />
-      </a>
-      <a href="https://leetcode.com/u/mukteshbodkhe04/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" />
-      </a>
-      <a href="https://codeforces.com/profile/mukteshbodkhe04" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" width="52" height="40" />
-      </a>
-      <a href="https://auth.geeksforgeeks.org/user/mukteshbodkhe04" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="52" height="40" />
-      </a>
-    </div>
+</td>
 
-  </div>
-
-  <!-- RIGHT GIF -->
-  <div style="width: 45%;">
-    <img 
-      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY1MHlnMHBtOThwNzB2cWN1azYyMXU2ZWx2OTVodnVxd20yOHJjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IAGR0uorPxSujK/giphy.gif"
-      width="100%"
-    />
-  </div>
-
-</div>
+<td width="45%" valign="top">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY1MHlnMHBtOThwNzB2cWN1azYyMXU2ZWx2OTVodnVxd20yOHJjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IAGR0uorPxSujK/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
