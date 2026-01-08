@@ -60,10 +60,10 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY1MHlnMHBtOThwNzB2cWN1azYyMXU2ZWx2OTVodnVxd20yOHJjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IAGR0uorPxSujK/giphy.gif" width="100%"/>
 </td>
 </tr>
-
+</table>
 
 
 <div align="center"> <img src="https://stats-github-readme.vercel.app/api?username=Muktesh9-11&show_icons=true&theme=dracula" height="150"/> 
   <img src="https://stats-github-readme.vercel.app/api/top-langs?username=Muktesh9-11&layout=compact&theme=dracula" height="150"/> 
 </div>
-</table>
+
