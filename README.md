@@ -59,7 +59,7 @@
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/mukteshbodkhe04" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="52" height="40" alt="codeforces logo" />
+    <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" width="52" height="40" alt="codeforces logo" />
   </a>
 
   <!-- GeeksforGeeks -->
