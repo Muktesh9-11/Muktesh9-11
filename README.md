@@ -7,10 +7,10 @@
 
 <h6 align="left">
 🔭 I’m currently doing <b>Competitive Programming / WebDev</b><br><br>
-🌱 I’m currently learning <b>CS Fundamentals and Frontend Development</b><br><br>
-👯 I’m looking to collaborate in <b>Competitive Programming and Frontend Dev</b><br><br>
-🤝 I’m looking for help with <b>DSA and Dev Stuff</b><br><br>
-📫 How to reach me: <b>shatanshubodkhe@gmail.com</b><br><br>
+🌱 I’m currently learning <b>CS Fundamentals and Development</b><br><br>
+👯 I’m looking to collaborate in <b>Competitive Programming and Development</b><br><br>
+🤝 I’m open to work for <b>Software Development</b><br><br>
+📫 How to reach me: <b>mukteshbodkhe04@gmail.com</b><br><br>
 ⚡ Fun fact: I landed here accidentally and now I'm lovin' it!
 </h6>
 
