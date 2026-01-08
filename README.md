@@ -54,17 +54,17 @@
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/mukteshbodkhe04/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="52" height="40" alt="leetcode logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="leetcode logo" />
   </a>
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/mukteshbodkhe04" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="52" height="40" alt="codeforces logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="52" height="40" alt="codeforces logo" />
   </a>
 
   <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/mukteshbodkhe04" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="52" height="40" alt="geeksforgeeks logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="52" height="40" alt="geeksforgeeks logo" />
   </a>
 </div>
 
